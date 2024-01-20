@@ -18,4 +18,4 @@ As part of the Scrimba Front-End Developer Program, this guided project was my f
 To view this project, clone the repository to your local machine and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://sprightly-semolina-fd5326.netlify.app/)
